@@ -1,4 +1,6 @@
 # E-Hentai/ExHentai TAGs 中文翻译
+所有翻译和校验工作由1人（[Lyric](https://github.com/scooderic)）完成 共计577个条目
+
 ## 原则
 待补充
 
