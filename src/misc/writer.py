@@ -25,12 +25,13 @@ def write_html(data, out):
 
 def write_txt(data, out):
     spaces = '                    '
+    splen = len(spaces)
     try:
         out.write('TAG                 |TRANSLATION\n')
         out.write('=========================================\n')
         for element in data:
             k = element['k']
-            out.write(k + spaces[len(k):len(spaces)])
+            out.write(k + spaces[len(k):splen])
             out.write('|')
             out.write(element['v'])
             out.write('\n')
