@@ -41,14 +41,14 @@ def write_txt(data, out):
 
 def write_md(data, out):
     try:
-        out.write('|TAG|TRANSLATION|\n')
-        out.write('|--------|--------|\n')
+        out.write('| TAG | TRANSLATION |\n')
+        out.write('| -------- | -------- |\n')
         for element in data:
-            out.write('|')
+            out.write('| ')
             out.write(element['k'])
-            out.write('|')
+            out.write(' | ')
             out.write(element['v'])
-            out.write('|\n')
+            out.write(' |\n')
         out.flush()
     finally:
         out.close()
