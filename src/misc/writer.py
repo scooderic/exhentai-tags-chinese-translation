@@ -39,6 +39,20 @@ def write_txt(data, out):
     finally:
         out.close()
 
+def write_md(data, out):
+    try:
+        out.write('|TAG|TRANSLATION|\n')
+        out.write('|--------|--------|\n')
+        for element in data:
+            out.write('|')
+            out.write(element['k'])
+            out.write('|')
+            out.write(element['v'])
+            out.write('|\n')
+        out.flush()
+    finally:
+        out.close()
+
 def write(content_type):
     try:
         file = codecs.open('../../dist/ehtags-cn.json', 'r', CHARSET)
@@ -48,5 +62,7 @@ def write(content_type):
             write_html(data, out)
         elif content_type == 'txt':
             write_txt(data, out)
+        elif content_type == 'md':
+            write_md(data, out)
     finally:
         file.close()
