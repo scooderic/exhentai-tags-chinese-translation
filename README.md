@@ -1,7 +1,7 @@
 # E-Hentai/ExHentai TAGs 中文翻译
 
 * dist 文件夹存放了用于开发其它软件的json源文件
-* src/misc 文件夹存放的是用于生成下面的表格的一个脚本，作用不大
+* src/misc 文件夹存放的是用于生成下面的表格的一个脚本
 
 共计577个条目
 
@@ -12,7 +12,7 @@
 | absorption | 吸入；吞并（见unbirth、vore） |
 | adventitious penis | 不确定阴茎；在身体某处长出阴茎 |
 | adventitious vagina | 不确定阴道；在身体某处出现阴道 |
-| afro | 蓬松（阴毛）；爆炸头 |
+| afro | （类似非洲人的）蓬松发型 |
 | age progression | 长大；快速长大 |
 | age regression | 变年轻；（年龄）变小；返老还童 |
 | ahegao | 高潮脸；阿黑颜；ahe颜 |
