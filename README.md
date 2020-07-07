@@ -125,7 +125,7 @@
 | condom | 避孕套；安全套 |
 | conjoined | 连体人 |
 | coprophagia | 食粪；吃屎 |
-| corruption | 堕落（见mind break、moral degeneration） |
+| corruption | 堕落；恶堕（见mind break、moral degeneration） |
 | corset | 紧身衣 |
 | cosplaying | 扮装 |
 | cousin | （同辈表亲或同辈堂亲）乱伦 |
