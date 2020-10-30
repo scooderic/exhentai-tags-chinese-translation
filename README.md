@@ -216,7 +216,7 @@
 | full censorship | 全马赛克；厚码 |
 | full color | 全彩；彩色 |
 | fundoshi | 褌 |
-| furry | 毛茸茸的 |
+| furry | 兽控；兽迷 |
 | futanari | 扶她；阴阳人；双性人 |
 | gag | 堵嘴 |
 | game sprite | （通常指低分辨率的或像素的）游戏画面 |
