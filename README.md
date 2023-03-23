@@ -526,7 +526,7 @@
 | toddlercon | 婴儿；幼女控；恋童癖 |
 | tomboy | 假小子；男人婆 |
 | tomgirl | 娘炮；娘娘腔 |
-| tooth brushing | 刷牙（引起性快感） |
+| tooth brushing | 刷牙Play |
 | torture | 折磨；拷打；酷刑 |
 | tracksuit | 运动服 |
 | trampling | 踩踏；践踏 |
