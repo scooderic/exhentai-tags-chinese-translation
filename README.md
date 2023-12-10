@@ -107,6 +107,7 @@
 | cbt | 蹂躏小鸡鸡；折磨鸡巴 |
 | centaur | 半人半马 |
 | cervix penetration | 插入子宫 |
+| cervix prolapse | 子宫脱落（垂至身外） |
 | chastity belt | 贞操带 |
 | cheating | （不是NTR也不是强奸意义上的）出轨；偷情；骗奸 |
 | cheerleader | 拉拉队服 |
