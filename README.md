@@ -215,6 +215,7 @@
 | full body tattoo | 全身文身 |
 | full censorship | 全马赛克；厚码 |
 | full color | 全彩；彩色 |
+| full-packaged futanari | 具有阴茎和阴道，同时还具有睾丸等性器官的完整扶她 |
 | fundoshi | 褌 |
 | furry | 兽控；兽迷 |
 | futanari | 扶她；阴阳人；双性人 |
