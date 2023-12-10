@@ -574,7 +574,7 @@
 | wolf boy | 具有狼的特征的男孩 |
 | wolf girl | 具有狼的特征的女孩 |
 | wooden horse | 三角木马 |
-| worm | 蠕虫 |
+| worm | 使用虫类进行性交活动（比如把寄生虫放入阴道内） |
 | wormhole | 虫洞（连接两个时空的洞） |
 | wrestling | 摔角 |
 | x-ray | 透视（身体内部） |
