@@ -192,7 +192,7 @@
 | father | （父子）乱伦 |
 | females only | 只有女性；有关角色都是女角色 |
 | femdom | 调教 |
-| feminization | 女性化 |
+| feminization | 女性化；娘化；雌化；雌堕 |
 | ffm threesome | 女女男3P；双飞 |
 | fft threesome | 二女一TS（扶她、人妖等）3P |
 | figure | 手办；塑料小人 |
