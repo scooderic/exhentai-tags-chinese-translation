@@ -139,6 +139,7 @@
 | cum bath | 精液浴（指浸泡在精液中） |
 | cum in eye | 射到眼睛里 |
 | cum swap | 精液交换；传精 |
+| cumflation | 内射的精液使得腹部涨起 |
 | cunnilingus | 舔阴；为她口交 |
 | cuntboy | 有阴道的男性（不是指801穴，也不包括扶她） |
 | dakimakura | 抱枕 |
